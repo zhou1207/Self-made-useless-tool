@@ -6,3 +6,4 @@
 ## Fetch_Mac_WiFi.sh
 <br>=> It is used to fetch the stored/remembered Wi-Fi password on Mac OS laptop/computer.
 <br>=> Due to the default security settings of Mac OS, it will require admin user account & password.
+<br>=> Remeber to use chmod command to make it executable.
